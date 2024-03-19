@@ -1,6 +1,7 @@
 <center>
     <img src="https://images.weserv.nl/?url=https://github.com/Devkumar00001.png?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" />
 </center>
+
 <h1 align="center">Hi 👋, I'm Dev Kumar</h1>
 <h3 align="center">Android app frontend developer from India🇮🇳🇮🇳</h3>
 
@@ -13,6 +14,18 @@
 - 📫 How to reach me **kadev70@gmail.com**
 
 - ⚡ Fun fact **I love physics.**
+
+<h3>Photos<h3>
+
+
+<div align="left">
+    <a href="https://github.com/Devkumar00001.png">
+        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://github.com/Devkumar00001.png?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
+    </a>
+    <a href="https://dl.dropbox.com/scl/fi/wchsx3rebmzzxuwviusys/DevKumar.jpg?rlkey=tj43ujkldoh7yll1vk3w6ie6w&dl=0">
+        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://dl.dropbox.com/scl/fi/wchsx3rebmzzxuwviusys/DevKumar.jpg?rlkey=tj43ujkldoh7yll1vk3w6ie6w&dl=0?v=4&fit=cover&mask=circle&maxage=7d" />
+    </a>
+</div>
 
 <h3 align="left">Projects</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dev Kumar</h1>
 <h3 align="center">Android app frontend developer from India🇮🇳🇮🇳</h3>
 
-- 🔭 I’m currently working on [**Blockly Android**](https://github.com/TS-Code-Editor/AndroidAppStudio)
+- 🔭 I’m currently working on [**Android AppStudio**](https://github.com/TS-Code-Editor/AndroidAppStudio)
 
 - 🌱 I’m currently preparing myself for **board exams**
 
@@ -29,20 +29,19 @@
 
 <h3 align="left">Projects</h3>
 <p align="left">
-
-<a href="https://github.com/TS-Code-Editor/BlockWebBuilder" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/BlockWebBuilder/dev/app/src/main/res/drawable/logo.png" height="40" width="40" /> BlockWeb Builder</a>
-<br/>
-<a href="https://github.com/TS-Code-Editor/Android-Code-Editor" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/Android-Code-Editor/dev/app/src/main/res/drawable/logo_black.png" height="40" width="40" />Android Code Editor</a>
-<br/>
-<a href="https://github.com/TS-Code-Editor/AndroidAppStudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/AndroidAppStudio/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" height="40" width="40" />Android AppStudio (Working on it)</a>
+    <a href="https://github.com/TS-Code-Editor/BlockWebBuilder" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/BlockWebBuilder/dev/app/src/main/res/drawable/logo.png" height="40" width="40" />  BlockWeb Builder</a>
+    <br/>
+    <a href="https://github.com/TS-Code-Editor/Android-Code-Editor" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/Android-Code-Editor/dev/app/src/main/res/drawable/logo_black.png" height="40" width="40" />  Android Code Editor</a>
+    <br/>
+    <a href="https://github.com/TS-Code-Editor/AndroidAppStudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/AndroidAppStudio/main/app/src/main/res/drawable-xxxhdpi/logo.jpg" height="40" width="40" />  Android AppStudio (Working on it)</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/devkumar7578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devkumar7578" height="30" width="40" /></a>
-<a href="https://instagram.com/dev7578_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkumar00001_" height="30" width="40" /></a>
-<a href="https://discord.com/invite/vSeCT2u9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
-<a href="https://t.me/ly9291940gg" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/023/986/534/non_2x/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png" height="30" width="30"/></a>
+    <a href="https://fb.com/devkumar7578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devkumar7578" height="30" width="40" /></a>
+    <a href="https://instagram.com/dev7578_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkumar00001_" height="30" width="40" /></a>
+    <a href="https://discord.com/invite/vSeCT2u9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+    <a href="https://t.me/ly9291940gg" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/023/986/534/non_2x/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

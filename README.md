@@ -28,13 +28,18 @@
 </div>
 
 <h3 align="left">Projects</h3>
-<p align="left">
-    <a href="https://github.com/TS-Code-Editor/BlockWebBuilder" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/BlockWebBuilder/dev/app/src/main/res/drawable/logo.png" height="40" width="40" />  BlockWeb Builder</a>
-    <br/>
-    <a href="https://github.com/TS-Code-Editor/Android-Code-Editor" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/Android-Code-Editor/dev/app/src/main/res/drawable/logo_black.png" height="40" width="40" />  Android Code Editor</a>
-    <br/>
-    <a href="https://github.com/TS-Code-Editor/AndroidAppStudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/TS-Code-Editor/AndroidAppStudio/main/app/src/main/res/drawable-xxxhdpi/logo.jpg" height="40" width="40" />  Android AppStudio (Working on it)</a>
-</p>
+
+<div align="left">
+    <a href="https://github.com/TS-Code-Editor/AndroidAppStudio">
+        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/TS-Code-Editor/AndroidAppStudio/main/app/src/main/res/drawable-xxxhdpi/logo.jpg?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
+    </a>
+    <a href="https://github.com/TS-Code-Editor/Android-Code-Editor">
+        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/TS-Code-Editor/Android-Code-Editor/dev/app/src/main/res/drawable/logo_black.png?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
+    </a>
+    <a href="https://github.com/TS-Code-Editor/BlockWebBuilder">
+        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/TS-Code-Editor/BlockWebBuilder/dev/app/src/main/res/drawable/logo.png?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
+    </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -46,7 +46,6 @@
     <a href="https://fb.com/devkumar7578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devkumar7578" height="30" width="40" /></a>
     <a href="https://instagram.com/dev7578_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkumar00001_" height="30" width="40" /></a>
     <a href="https://discord.com/invite/vSeCT2u9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
-    <a href="https://t.me/ly9291940gg" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/023/986/534/non_2x/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

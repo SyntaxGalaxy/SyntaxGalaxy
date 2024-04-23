@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [**Android AppStudio**](https://github.com/TS-Code-Editor/AndroidAppStudio)
 
-- 🌱 I’m currently preparing myself for **board exams**
-
 - 💬 Ask me about **Java, Android development, static websites, Firebase database etc...**
 
 - 📫 How to reach me **kadev70@gmail.com**
@@ -19,9 +17,6 @@
 
 
 <div align="left">
-    <a href="https://github.com/Devkumar00001.png">
-        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://github.com/Devkumar00001.png?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
-    </a>
     <a href="https://dl.dropbox.com/scl/fi/wchsx3rebmzzxuwviusys/DevKumar.jpg?rlkey=tj43ujkldoh7yll1vk3w6ie6w&dl=0">
         <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://dl.dropbox.com/scl/fi/wchsx3rebmzzxuwviusys/DevKumar.jpg?rlkey=tj43ujkldoh7yll1vk3w6ie6w&dl=0?v=4&fit=cover&mask=circle&maxage=7d" />
     </a>
@@ -41,7 +36,7 @@
     </a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
     <a href="https://fb.com/devkumar7578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devkumar7578" height="30" width="40" /></a>
     <a href="https://instagram.com/dev7578_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkumar00001_" height="30" width="40" /></a>

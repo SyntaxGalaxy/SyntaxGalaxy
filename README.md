@@ -1,5 +1,5 @@
 <center>
-    <img src="https://images.weserv.nl/?url=https://github.com/SyntaxGalaxy.png?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" />
+    <img src="https://images.weserv.nl/?url=https://github.com/SyntaxGalaxy.png?v=4&h=255&w=255&fit=cover&mask=circle&maxage=7d" />
 </center>
 
 <h1 align="center">Hi 👋, I'm Dev Kumar</h1>
